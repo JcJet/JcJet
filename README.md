@@ -1,4 +1,12 @@
-### Hi there 👋
+### Namaskar 🙏
+I'm the Python/Typescript programmer, backend developer, and former machine learning researcher.
+### Current stack:
+[![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,nestjs,nodejs,typescript,js,postgres,postman)](https://skillicons.dev)
+### Had some fun with:
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,tensorflow,r)](https://skillicons.dev)
+
+
+
 
 <!--
 **JcJet/JcJet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
