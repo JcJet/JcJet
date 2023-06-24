@@ -2,7 +2,7 @@
 I'm the Python/Typescript programmer, backend developer, and former machine learning researcher.
 ### Current stack:
 [![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,nestjs,nodejs,typescript,js,postgres,postman)](https://skillicons.dev)
-### Had some fun with:
+### Old:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,tensorflow,r)](https://skillicons.dev)
 
 
