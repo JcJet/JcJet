@@ -3,7 +3,14 @@ I'm the Python/Typescript programmer, backend developer, and former machine lear
 ### Current stack:
 [![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,nestjs,nodejs,typescript,js,postgres,postman)](https://skillicons.dev)
 
-
+<center>
+  <table>
+    <tr>
+        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=JcJet&theme=blueberry&include_all_commits=true&count_private=true"/></td>
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcJet&layout=compact&theme=blueberry" /></td>
+    </tr>  
+  </table>
+</center>  
 
 
 <!--
